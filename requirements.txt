@@ -1,5 +1,4 @@
-torch
-transformers==3.0.2
+transformers[torch]
 numpy==1.19.1
 flask
 joblib==0.16.0
