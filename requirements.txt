@@ -1,6 +1,6 @@
 transformers[torch]
-numpy==1.19.1
+numpy
 flask
-joblib==0.16.0
+joblib
 sentencepiece
-urllib3==1.25.10
+urllib3
