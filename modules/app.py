@@ -2,7 +2,7 @@ from io import BytesIO
 
 from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import FileResponse, StreamingResponse
+from fastapi.responses import FileResponse
 
 from modules.inference import infer_t5
 
